@@ -22,7 +22,6 @@
 /api/1.0/download
 /api/1.0/download/1
 /api/1.0/login
-/api/1.0/logout
 /api/1.0/manager
 /api/1.0/manager/home
 /api/1.0/search
@@ -98,7 +97,6 @@
 /api/admin/loans
 /api/admin/log
 /api/admin/login
-/api/admin/logout
 /api/admin/logs
 /api/admin/mails
 /api/admin/member
@@ -149,8 +147,7 @@
 /api/auth
 /api/auth/admin
 /api/auth/login
-/api/auth/logout
-/api/auth/member/logout
+/api/auth/member
 /api/auth/pass/loginExpired
 /api/auth/pass/noLogin
 /api/auth/pass/userIsNotAvailable
@@ -244,14 +241,11 @@
 /api/del
 /api/delUser
 /api/delallfile
-/api/delete
 /api/delete-user
-/api/delete/1
 /api/deleteAccount
 /api/deleteApiToken
 /api/deleteData
 /api/deleteUser
-/api/deleteUser/1
 /api/delfile
 /api/demo
 /api/dev/users/admin
@@ -316,7 +310,6 @@
 /api/emptyList
 /api/entities/1
 /api/entities/definition
-/api/entities/delete
 /api/entities/dependencies
 /api/entities/list
 /api/entities/resume
@@ -669,7 +662,6 @@
 /api/log
 /api/log/save
 /api/logIn
-/api/logOut
 /api/logger
 /api/login
 /api/login/@token
@@ -681,9 +673,6 @@
 /api/login?username=
 /api/loginCheck
 /api/logon
-/api/logout
-/api/logout/
-/api/logout/1
 /api/logs
 /api/logs/1
 /api/main
@@ -718,7 +707,6 @@
 /api/member/1
 /api/member/coupon
 /api/member/login
-/api/member/logout
 /api/member/refresh
 /api/member/signup
 /api/members
@@ -1241,7 +1229,6 @@
 /api/user/create
 /api/user/data
 /api/user/delete
-/api/user/delete/1
 /api/user/email
 /api/user/email_confirmation
 /api/user/email_confirmation/
@@ -1265,7 +1252,6 @@
 /api/user/login.json
 /api/user/loginBySms
 /api/user/logon
-/api/user/logout
 /api/user/mail
 /api/user/management
 /api/user/me
@@ -1342,7 +1328,6 @@
 /api/users.info
 /api/users/
 /api/users/1
-/api/users/1-delete
 /api/users/1-put
 /api/users/1/datasets
 /api/users/2
@@ -1362,7 +1347,6 @@
 /api/users/info
 /api/users/join
 /api/users/login
-/api/users/logout
 /api/users/me
 /api/users/newClient
 /api/users/notes
@@ -1418,7 +1402,6 @@
 /api/v1/downtime
 /api/v1/downtime/1
 /api/v1/login
-/api/v1/logout
 /api/v1/main
 /api/v1/members
 /api/v1/messages
