@@ -2,6 +2,7 @@
 ?=admin
 #/admin
 a
+mp
 about
 access
 account
