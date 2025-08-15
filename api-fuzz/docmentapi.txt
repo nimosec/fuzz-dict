@@ -6,9 +6,11 @@
 /v2/api-docs
 /v3/swagger
 /developers
+/api-docs/index.html
 /developer/docs
 /api/v1/documentation
 /api/v2/swagger
+/api-docs/index.json
 /v1/api-docs
 /v2/docs
 /rest-api
