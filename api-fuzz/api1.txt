@@ -40,3 +40,9 @@
 /api/v1/menus
 /api/v1/roles
 /api/v1/users
+/api/auth/api-keys
+/api/auth/login
+/api/auth/me
+/api/auth/plans
+/api/auth/register
+/api/auth/subscription
