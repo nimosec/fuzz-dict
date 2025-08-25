@@ -1,3 +1,4 @@
+/prod-api
 /actuator/configprops
 /actuator/env
 /actuator/health
