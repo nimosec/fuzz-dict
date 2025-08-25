@@ -1,4 +1,5 @@
 /prod-api
+/druid/websession.html
 /actuator/configprops
 /actuator/env
 /actuator/health
