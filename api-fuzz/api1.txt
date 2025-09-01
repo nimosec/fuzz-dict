@@ -1,5 +1,8 @@
-
+/prod-api
+/prod
+/dev
 /api/v1/userlist
+/api/User/GetUserList
 /api/addUser
 /api/addmenu
 /api/addpower
