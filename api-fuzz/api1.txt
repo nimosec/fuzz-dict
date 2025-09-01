@@ -1,5 +1,7 @@
 /prod-api
 /prod
+/api-explorer/
+/api-explorer
 /dev
 /api/v1/userlist
 /api/User/GetUserList
