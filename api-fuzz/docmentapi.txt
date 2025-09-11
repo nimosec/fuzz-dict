@@ -1,4 +1,6 @@
 /api-docs
+/swagger2.json
+/openapi3.json
 /swagger
 /docs
 /apidoc
