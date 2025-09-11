@@ -9,6 +9,7 @@
 /actuator/mappings
 /actuator/metrics
 /actuator/threaddump
+/api/proxy/image
 /api-doc
 /api-docs
 /api.html
