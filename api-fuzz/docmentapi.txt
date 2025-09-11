@@ -3,6 +3,7 @@
 /docs
 /apidoc
 /v1/docs
+/jeecg-boot/doc.html
 /v2/api-docs
 /v3/swagger
 /developers
