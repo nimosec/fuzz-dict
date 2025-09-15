@@ -12,6 +12,7 @@
 /api/delUser
 /api/delmenu
 /api/delpower
+/api/v1/account/reset-password
 /api/delrole
 /api/findAllPowerByRoleId
 /api/getAllMenusAndPowers
