@@ -46,6 +46,11 @@
 /fund/
 /channelH5/
 /js/
+/coupon/
+/skin/
+/keyboard/
+/member/
+/gen/
 /code/
 /images/
 /footer/
