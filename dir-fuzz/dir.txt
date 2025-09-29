@@ -9,6 +9,9 @@
 /public/
 /default/
 /wiki/
+/errors/
+/success/
+/error/
 /common/
 /static/
 /apps/
