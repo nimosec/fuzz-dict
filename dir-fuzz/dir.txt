@@ -25,6 +25,8 @@
 /verification/
 /creations/
 /materials/
+/tutorial/
+/backup/
 /wp-content/
 /redirect/
 /tagsView/
@@ -176,6 +178,7 @@
 /ai/
 /conversations/
 /chat/
+/address/
 /app/
 /index/
 /application/
