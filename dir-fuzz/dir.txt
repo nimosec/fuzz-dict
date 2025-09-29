@@ -105,6 +105,10 @@
 /supply/
 /background/
 /front/
+/coupon/
+/skin/
+/keyboard/
+/member/
 /configurations/
 /config/
 /article/
