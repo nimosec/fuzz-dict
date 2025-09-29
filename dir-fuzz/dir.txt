@@ -423,5 +423,12 @@
 /qa/
 /latest/
 /banner/
+/jsmonitor/
+/feed/
+/contents/
+/content/
+/developer/
+/archives/
+/services/
 
 
