@@ -671,6 +671,31 @@ metadata/
 /x/
 /y/
 /z/
+/bapi/
+/capi/
+/dapi/
+/eapi/
+/fapi/
+/gapi/
+/hapi/
+/iapi/
+/japi/
+/kapi/
+/lapi/
+/mapi/
+/napi/
+/oapi/
+/papi/
+/qapi/
+/rapi/
+/sapi/
+/tapi/
+/uapi/
+/vapi/
+/wapi/
+/xapi/
+/yapi/
+/zapi/
 
 
 
