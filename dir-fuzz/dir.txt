@@ -12,6 +12,9 @@
 /profiles/
 /log-sdk/
 /blog/
+/help/
+/tj/
+/helpcenter/
 /blocks/
 /social-links/
 /websocket/
