@@ -96,6 +96,12 @@ metadata/
 /source/
 /confirm/
 /webapi/
+/uservip/
+/hot/
+/explore/
+/book/
+/welcome/
+/follow/
 /hr/
 /version/
 /webfile/
