@@ -50,7 +50,7 @@
 /embed/
 /authenticate/
 /consents/
-metadata/
+/metadata/
 /instance/
 /location/
 /loc/
@@ -134,6 +134,7 @@ metadata/
 /promotion/
 /rpc/
 /subpage/
+/jump/
 /taskCenter/
 /xoneapi/
 /init/
