@@ -15,6 +15,7 @@
 /sign_in/
 /integrations/
 /webchat/
+/detail/
 /lists/
 /userlists/
 /userlist/
