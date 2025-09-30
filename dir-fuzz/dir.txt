@@ -26,6 +26,7 @@
 /webfile/
 /fonts/
 /intl/
+/rank/
 /wp/
 /tracker/
 /next/
