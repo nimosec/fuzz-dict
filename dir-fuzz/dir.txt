@@ -15,6 +15,7 @@
 /blocks/
 /social-links/
 /resources/
+/logo/
 /online/
 /watermark/
 /suggestions/
