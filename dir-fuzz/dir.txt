@@ -5,6 +5,11 @@
 /proxies/tcpmux
 /proxies/stcp
 /proxies/sudp
+/proxies/
+/secret/
+/api-list/
+/api-detail/
+/credits/
 /proxy/
 /cp/
 /overview/
