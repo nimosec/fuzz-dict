@@ -12,7 +12,12 @@
 /logs/
 /following/
 /followers/
+/frontend/
+/member/
+/wp-admin/
+/report/
 /pin/
+/es/
 /search/
 /user_api/
 /community/
