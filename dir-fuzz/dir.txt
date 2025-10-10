@@ -16,6 +16,9 @@
 /wss/
 /passport/
 /dingtalk/
+/bc/
+/ec/
+/ep/
 /weibo/
 /coupon/
 /videoplayer/
