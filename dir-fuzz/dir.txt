@@ -12,6 +12,12 @@
 /contact_us/
 /jsdoc/
 /slide/
+/lite/
+/sourcemap/
+/browser/
+/hooks/
+/app-api/
+/callback/
 /others/
 /javascripts/
 /workers/
