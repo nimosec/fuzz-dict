@@ -12,6 +12,12 @@
 /contact_us/
 /jsdoc/
 /slide/
+/filemanager/
+/FCKeditor/
+/aspx/
+/php/
+/net/
+/FileStore/
 /lite/
 /sourcemap/
 /browser/
