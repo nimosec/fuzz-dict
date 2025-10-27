@@ -9,6 +9,14 @@
 /videoplayer/
 /image_editor/
 /compressed/
+/copilot/
+/client-web/
+/pdfjs/
+/uiFramework/
+/attachDir/
+/employers/
+/wallets/
+/recharges/
 /contact_us/
 /jsdoc/
 /slide/
